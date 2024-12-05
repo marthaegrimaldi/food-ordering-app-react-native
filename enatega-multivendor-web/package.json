@@ -31,7 +31,7 @@
     "react-dom": "^17.0.2",
     "react-geocode": "^0.2.2",
     "react-google-login": "^5.2.2",
-    "react-i18next": "^13.4.1",
+    "react-i18next": "^14.1.2",
     "react-mentions": "^4.3.1",
     "react-modal": "^3.16.1",
     "react-otp-input": "^3.1.1",
