@@ -46,7 +46,7 @@
     "react-star-ratings": "^2.3.0",
     "react-stripe-checkout": "^2.6.3",
     "source-map-explorer": "^2.5.2",
-    "stripe": "^12.3.0",
+    "stripe": "^18.1.1",
     "subscriptions-transport-ws": "^0.9.19",
     "uuid": "^8.3.2",
     "web-vitals": "^0.2.4"
