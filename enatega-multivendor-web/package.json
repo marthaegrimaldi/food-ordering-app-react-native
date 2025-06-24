@@ -38,7 +38,7 @@
     "react-paypal-button-v2": "^2.6.3",
     "react-phone-input-2": "^2.15.0",
     "react-places-autocomplete": "^7.3.0",
-    "react-router-dom": "^6.2.1",
+    "react-router-dom": "^7.6.2",
     "react-scripts": "^4.0.0",
     "react-scroll": "^1.8.2",
     "react-scrollspy": "^3.4.3",
