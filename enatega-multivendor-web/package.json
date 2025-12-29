@@ -33,7 +33,7 @@
     "react-google-login": "^5.2.2",
     "react-i18next": "^13.4.1",
     "react-mentions": "^4.3.1",
-    "react-modal": "^3.16.1",
+    "react-modal": "^3.16.3",
     "react-otp-input": "^3.1.1",
     "react-paypal-button-v2": "^2.6.3",
     "react-phone-input-2": "^2.15.0",
